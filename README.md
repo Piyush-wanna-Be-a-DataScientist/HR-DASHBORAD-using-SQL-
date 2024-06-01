@@ -22,11 +22,10 @@ In a corporate setting, results can be shared online on www.powerbi.com
 
 
 
-![Uploading hr_dashboard_page-0001.jpg…]()
-
-![Uploading hr_dashboard_page-0002.jpg…]()
 
 
+![Dashboard](hr_dashboard_page-0001.jpg)
+![Dashboard](hr_dashboard_page-0002.jpg)
 
 
 
