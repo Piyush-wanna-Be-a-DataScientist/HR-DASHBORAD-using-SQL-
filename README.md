@@ -23,7 +23,7 @@ In a corporate setting, results can be shared online on www.powerbi.com
 
 
 
-https://github.com/Piyush-wanna-Be-a-DataScientist/HR-DASHBORAD-using-SQL-/blob/main/hr_dashboard.pdf
+[Link to PDF](hr_dashboard.pdf)
 
 
 
