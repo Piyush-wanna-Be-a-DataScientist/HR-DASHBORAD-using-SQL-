@@ -21,6 +21,7 @@ Power BI Desktop
 In a corporate setting, results can be shared online on www.powerbi.com 
 
 
+[hr_dashboard.pdf](https://github.com/user-attachments/files/15521028/hr_dashboard.pdf)
 
 
 
