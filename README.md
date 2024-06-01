@@ -23,7 +23,6 @@ In a corporate setting, results can be shared online on www.powerbi.com
 
 
 
-[Link to PDF](hr_dashboard.pdf)
 
 
 
